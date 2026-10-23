@@ -19,6 +19,7 @@ Nach der einmaligen Aktivierung von GitHub Pages ist die Website unter
 [annafillanna.github.io/kavro-barber-shop](https://annafillanna.github.io/kavro-barber-shop/)
 erreichbar. Der Workflow baut und veröffentlicht Änderungen automatisch bei
 jedem Push auf `main`.
+Auch direkte Aufrufe der Buchungsseite funktionieren durch einen SPA-Fallback.
 
 Aktiviere dafür einmalig unter **Settings → Pages** die Bereitstellung über
 **GitHub Actions**.
