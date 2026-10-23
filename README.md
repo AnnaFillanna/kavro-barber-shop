@@ -1,36 +1,36 @@
-# KAVRO — Barber Studio
+# KAVRO — Barbershop
 
-Сайт барбершопа KAVRO в Берлине: лаконичная презентация студии, услуг и команды с адаптивным дизайном и интерактивной демонстрацией записи на стрижку.
+Die Website des KAVRO-Barbershops in Berlin: eine klare Präsentation des Studios, der Services und des Teams mit responsivem Design und einer interaktiven Demo für die Terminbuchung.
 
-## Запуск
+## Starten
 
-Требуется Node.js и npm.
+Node.js und npm müssen installiert sein.
 
 ```bash
 npm install
 npm run dev
 ```
 
-Откройте сайт: [http://localhost:5174/](http://localhost:5174/)
+Öffne die Website unter: [http://localhost:5174/](http://localhost:5174/)
 
-## Возможности
+## Funktionen
 
-- Главная страница с описанием студии, услуг, барберов и адресом в Берлине.
-- Пошаговый выбор услуги, мастера, даты и времени.
-- Адаптивная навигация и интерфейс.
-- Демонстрационный сценарий записи: данные не сохраняются, реальное бронирование не выполняется.
+- Startseite mit Informationen zum Studio, den Services, den Barbern und der Adresse in Berlin.
+- Schrittweise Auswahl von Service, Barber, Datum und Uhrzeit.
+- Responsive Navigation und Benutzeroberfläche.
+- Demo-Terminbuchung: Es werden keine Daten gespeichert und keine echten Termine gebucht.
 
-## Технологии
+## Technologien
 
 - React 18
 - TypeScript
 - Vite
 - React Router
 
-## Сборка
+## Build
 
 ```bash
 npm run build
 ```
 
-Готовая сборка появится в каталоге `dist/`.
+Das fertige Build wird im Verzeichnis `dist/` abgelegt.
