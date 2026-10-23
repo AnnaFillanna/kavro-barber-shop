@@ -11,7 +11,7 @@ npm install
 npm run dev
 ```
 
-Откройте сайт: [http://localhost:5173/](http://localhost:5173/)
+Откройте сайт: [http://localhost:5174/](http://localhost:5174/)
 
 ## Возможности
 
